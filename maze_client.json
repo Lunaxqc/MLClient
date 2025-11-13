@@ -1,0 +1,11 @@
+{
+  "versionInfo": {
+    "version": "1.1",
+    "login": true
+  },
+  "clientSettings": {
+    "title": "Maze Client",
+    "logo32": "https://media.discordapp.net/attachments/1434913545421590538/1438517998066339890/32x32.png?ex=69172bc9&is=6915da49&hm=dfe91a91de2db1080616003d6e2a2508df270a9ad181a9a1b33a10b681f64b6b&=&format=webp&quality=lossless",
+    "logo64": "https://media.discordapp.net/attachments/1434913545421590538/1438518053506781184/64x64.png?ex=69172bd6&is=6915da56&hm=606f04543b76cd2ebef794ad259911cc6559485c3fa584e2fcfc764244971c90&=&format=webp&quality=lossless"
+  }
+}
