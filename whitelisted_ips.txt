@@ -1,4 +1,5 @@
 localhost
+play.mazenetwork.com.tr
 play.lexusmc.com.tr
 play.lexusnw.com.tr
 play.craftrise.com.tr
